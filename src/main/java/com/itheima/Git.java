@@ -7,4 +7,8 @@ public class Git {
         System.out.println("123456789");
         System.out.println("123456789");
     }
+    public void addMethod(){
+        int i=2;
+        i+=5;
+    }
 }

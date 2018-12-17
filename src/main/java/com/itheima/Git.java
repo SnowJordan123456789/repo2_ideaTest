@@ -6,9 +6,11 @@ public class Git {
         System.out.println("123456789");
         System.out.println("123456789");
         System.out.println("123456789");
+        //仅仅是注释
     }
     public void addMethod(){
         int i=2;
         i+=5;
+        System.out.println(i);
     }
 }
